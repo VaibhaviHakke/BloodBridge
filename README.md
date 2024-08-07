@@ -1,0 +1,1 @@
+This project aims to revolutionize the management of blood banks by providing a comprehensive platform designed to streamline operations and enhance efficiency. BloodBridge simplifies the complexities of blood bank management, offering intuitive tools and features that make it easier to track, organize, and manage blood donations and resources.
